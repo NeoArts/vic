@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vic/static/css/main.64e0d742.css",
+    "main.js": "/vic/static/js/main.5f70a4ea.js",
+    "static/media/LauraVictoriaMartinez4.jpg": "/vic/static/media/LauraVictoriaMartinez4.f38d4d920eff9903bc86.jpg",
+    "static/media/LauraVictoriaMartinez1.jpg": "/vic/static/media/LauraVictoriaMartinez1.3ddb2c10095b697a3c23.jpg",
+    "static/media/LauraVictoriaMartinez3.jpg": "/vic/static/media/LauraVictoriaMartinez3.880a6605e346b0b55a9f.jpg",
+    "static/media/LauraVictoriaMartinez5.jpg": "/vic/static/media/LauraVictoriaMartinez5.1eed62f3df2874a21b56.jpg",
+    "static/media/LauraVictoriaMartinez2.jpg": "/vic/static/media/LauraVictoriaMartinez2.4603f9cffbae9a03731c.jpg",
+    "static/media/LauraVictoriaMartinez8.jpg": "/vic/static/media/LauraVictoriaMartinez8.e5a0611c0a4242b2a1d5.jpg",
+    "static/media/LauraVictoriaMartinez6.jpg": "/vic/static/media/LauraVictoriaMartinez6.db10701e38b798cdff49.jpg",
+    "static/media/LauraVictoriaMartinez7.jpg": "/vic/static/media/LauraVictoriaMartinez7.264040138e951a0811ae.jpg",
+    "index.html": "/vic/index.html",
+    "main.64e0d742.css.map": "/vic/static/css/main.64e0d742.css.map",
+    "main.5f70a4ea.js.map": "/vic/static/js/main.5f70a4ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e0d742.css",
+    "static/js/main.5f70a4ea.js"
+  ]
+}
